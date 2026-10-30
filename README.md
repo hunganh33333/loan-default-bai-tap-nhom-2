@@ -1,6 +1,6 @@
 # Phân tích rủi ro vỡ nợ khoản vay thế chấp từ bộ dữ liệu Loan Default (Chủ đề 10)
 
-Bài giữa kỳ 2 học phần Khoa học dữ liệu trong kinh tế và kinh doanh, lớp học phần AEP.TOKT1138.LS(126)_01, giảng viên Trần Đức Minh.
+Bài tập nhóm học phần Khoa học dữ liệu trong kinh tế và kinh doanh, lớp học phần AEP.TOKT1138.LS(126)_01, giảng viên Trần Đức Minh.
 
 ## Nhóm 2
 
@@ -17,7 +17,7 @@ Bài giữa kỳ 2 học phần Khoa học dữ liệu trong kinh tế và kinh 
 | File | Nội dung |
 |---|---|
 | `Loan_Default_Analysis.ipynb` | Notebook Colab gồm 4 giai đoạn của đề bài, chạy Run all từ đầu đến cuối không lỗi, đã lưu sẵn kết quả và biểu đồ |
-| `Bao_cao_Giua_ky_2_Nhom_2.pdf` | Báo cáo của nhóm |
+| `Bao_cao_Bai_tap_nhom_Nhom_2.pdf` | Báo cáo của nhóm |
 
 Dữ liệu dùng trong bài là [Loan Default Dataset trên Kaggle](https://www.kaggle.com/datasets/yasserh/loan-default-dataset), gồm 148.670 khoản vay và 34 thuộc tính.
 
